@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aldrich</h1>
-<h3 align="center">16 year old developer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrichbbm&label=Profile%20views&color=0e75b6&style=flat" alt="aldrichbbm" /> </p>
 
